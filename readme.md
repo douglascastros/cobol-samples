@@ -1,8 +1,8 @@
 ## rules of cobol
 
 * the maximum columns allowed for a line of code in cobol is 80
-* the code can't pass of the column 72, because from column 72 at 80 is a reserved space
-* the column 7 is reserved too
+* the code can't pass of the column 72, because from column 72 at 80 is a reserved space to documentation
+* the column 7 is reserved too, to comentaries
 * the code convention of the cobol is based in three areas *a*, *b* and *c*
   * the area *a* have the columns from 1 at 6 and it's used to identify the division of the programn and paragraphs 
     ```
@@ -30,3 +30,8 @@
             END-IF
         END-PERFORM
     ```
+
+## running the programs
+
+* compiling the program with the command *COBC -x NameProgram.CBL*
+* executing the program with *./NameProgram.exe*
