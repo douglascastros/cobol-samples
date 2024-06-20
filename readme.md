@@ -33,5 +33,5 @@
 
 ## running the programs
 
-* compiling the program with the command *COBC -x NameProgram.CBL*
-* executing the program with *./NameProgram.exe*
+* compiling the program with the command *COBC -x ProgramName.CBL*
+* executing the program with *./ProgramName.exe*
