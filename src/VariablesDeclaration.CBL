@@ -2,7 +2,7 @@
       * DouglasCastros: cobc
       ******************************************************************
        IDENTIFICATION DIVISION.
-       PROGRAM-ID. VariablesDeclaration.
+       PROGRAM-ID. VARIABLES-DECLARATION.
        DATA DIVISION.
        FILE SECTION.
 
