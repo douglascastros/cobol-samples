@@ -5,6 +5,7 @@
       ****************************************************************** 
        IDENTIFICATION DIVISION.
        PROGRAM-ID. VARIABLES-HIERARCHY.
+       
        DATA DIVISION.
        FILE SECTION.
        WORKING-STORAGE SECTION.

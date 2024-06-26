@@ -3,9 +3,9 @@
       ******************************************************************
        IDENTIFICATION DIVISION.
        PROGRAM-ID. VARIABLES-DECLARATION.
+
        DATA DIVISION.
        FILE SECTION.
-
        WORKING-STORAGE SECTION.
 
       * specific location for declaring variables

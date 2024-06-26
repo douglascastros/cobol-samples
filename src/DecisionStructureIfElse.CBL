@@ -1,10 +1,11 @@
       ******************************************************************
       * Author:
       * Date:
-      * Porpose:
+      * Purpose:
       ******************************************************************
        IDENTIFICATION DIVISION.
        PROGRAM-ID. DECISION-STRUCTURE-IF-ELSE.
+       
        DATA DIVISION.
        FILE SECTION.
        WORKING-STORAGE SECTION.
