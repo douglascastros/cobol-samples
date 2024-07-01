@@ -25,7 +25,7 @@
 
        PROCEDURE DIVISION.
        MAIN-PROCEDURE.
-           OPEN INPUT FILE-DATA.
+           OPEN INPUT FILE-DATA
            PERFORM UNTIL WS-FILE-END = 'S'
                READ FILE-DATA
                    AT END
