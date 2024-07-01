@@ -11,7 +11,6 @@
        FILE-CONTROL.
            SELECT FILE-DATA-IN ASSIGN TO 'src/data.txt'
            ORGANIZATION IS LINE SEQUENTIAL.
-
            SELECT FILE-DATA-OUT ASSIGN TO 'src/data-out.txt'
            ORGANIZATION IS LINE SEQUENTIAL.
 
@@ -22,7 +21,6 @@
            05 FS-CODE  PIC 999.
            05 FS-COMMA PIC X(01).
            05 FS-NAME  PIC X(20).
-
        FD FILE-DATA-OUT.
        01 REGISTER-OUT.
            05 FS-CODE-OUT      PIC 999.
